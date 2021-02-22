@@ -14,6 +14,8 @@ exports.status = "I'm ready to start learning";
 
 Save it, and enter `recursion-lab verify program.js` into your terminal (substitute program.js with your filename) to move on to lesson 2.
 
+---
+
 Some useful links:
 [module.exports](https://nodejs.org/api/modules.html#modules_modules_commonjs_modules)
 [Working with Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
